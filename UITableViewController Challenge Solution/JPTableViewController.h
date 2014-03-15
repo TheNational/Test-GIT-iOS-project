@@ -1,5 +1,5 @@
 //
-//  JPViewController.h
+//  JPTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by jp on 3/15/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JPViewController : UIViewController
+@interface JPTableViewController : UITableViewController
 
 @end
